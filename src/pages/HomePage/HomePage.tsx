@@ -1,6 +1,6 @@
 import { FC } from 'react'
 import { Typography } from '@mui/material'
-import { CenteredContent } from '@/components/CenteredContent/CenteredContent'
+import { CenteredContent } from '@/components/CenteredContent'
 import { Colors } from '@/constants/styles'
 import { MainPageWrapper, RocketIcon } from './HomePage.styles'
 
